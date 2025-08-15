@@ -2,7 +2,7 @@
 
 **`Desenvolvedor WEB/Designer`**
 
-Me chamo Vitor Gabriel Dos Reis Glegorio, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC (Professor José Ignácio Azevedo Filho - Ituverava SP), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec (Faculdade de Tecnologia de Franca Dr Thomaz Novelino).".
+Me chamo Vitor Gabriel Dos Reis Glegorio, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC (Professor José Ignácio Azevedo Filho - Ituverava SP), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec (Faculdade de Tecnologia de Franca Dr Thomaz Novelino)
 
 ---
 
